@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm CyberDemon73
 
-<!--
-**CyberDemon73/CyberDemon73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 **Bridging offensive cybersecurity with intelligent automation.**  
+Passionate about ethical hacking, AI in infosec, and building tools that break things—responsibly.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Top Skills & Technologies
+
+- **Web Application Penetration Testing**
+- **Mobile Application Security:** iOS & Android
+- **Reverse Engineering:** Frida, Ghidra, IDA Pro
+- **API Security Auditing**
+- **Red Teaming & Exploitation Techniques**
+- **Secure Code Review:** Java, Spring Boot, TypeScript
+- **AI-assisted Offensive Security:** LLM-powered tooling
+- **FastAPI, React, Docker, Redis, PostgreSQL**
+
+---
+
+## 🎮 Fun Facts & Interests
+
+- Always testing something—apps, APIs, or patience 👾
+- Passionate about documenting security research & building custom lab environments
+- Interested in fitness, tech entrepreneurship, and behavioral psychology
+- Low-key obsessed with clean UI/UX in even the most technical tools
+
+---
+
+## 🧩 Projects
+
+- **GuardTrex:** Source code security scanner with CWE tagging, markdown reporting, and real-time analysis
+- **F-For-Frida:** Advanced dynamic instrumentation toolkit
+- **burparser:** Burp Suite log parser & automation tool
+
+---
+
+> _Let's connect and build the next generation of offensive security tools!_
